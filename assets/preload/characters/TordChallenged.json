@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-77
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TordIdleDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TordIdlePlayable",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TordIdleLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TordIdleRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TordIdleUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-1
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "TordIdleHEY!!",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TordChallenged",
+	"position": [
+		10,
+		80
+	],
+	"healthicon": "Tord-challenged-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		217,
+		18,
+		76
+	],
+	"camera_position": [
+		-70,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
